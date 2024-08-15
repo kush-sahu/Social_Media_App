@@ -29,35 +29,32 @@ To run this project locally, follow these steps:
    ```
 
 2. **Install dependencies**:
-
-bash
-Copy code
 npm install
-Set up Firebase:
 
+
+Set up Firebase:
 3. **Go to the Firebase Console**.
 Create a new project and add a web app.
 Copy your Firebase config object and replace it in the firebaseConfig object in your project.
-Run the app:
 
-
-npm start
+4. **Run the app**:
+npm run dev
 The app should now be running on http://localhost:3000.
 
-4. **Usage**
+5. **Usage**
 Sign Up: Create a new account or log in with your existing credentials.
 Create Post: Use the post creation form to add a new post.
 Follow Users: Search for and follow other users to see their posts in your feed.
 Engage: Like, comment, and share posts.
-Contributing
+
+6. **Contributing**
 Contributions are welcome! If you have any suggestions or find a bug, feel free to open an issue or submit a pull request.
 
-5. **License**
+7. **License**
 This project is licensed under the MIT License.
 
-6. **Contact**:
+8. **Contact**:
 For any inquiries, please reach out to:
-
 Kush Sahu: kushsahu144114@gmail.com
 
 
