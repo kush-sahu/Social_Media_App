@@ -1,0 +1,14 @@
+.Postlist{
+    padding: 10vh;
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7%;
+    overflow: scroll;
+    background-color: rgb(252, 252, 252);
+}
+.mynav{
+   background-color: #16687a;
+   
+}
